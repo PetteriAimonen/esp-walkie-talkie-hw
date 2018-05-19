@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DUAL_NPN
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+#End Doc Library
